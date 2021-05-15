@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575688713554.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3493160702",
+    "id" : "E2DDAA0",
+    "lastKnownWriteTime" : 1575688722,
+    "last_content_update" : 1575688722787,
+    "path" : "~/Skool is kool/CMSC150/CMSC-150-Project-master/QuadraticSpline.R",
+    "project_path" : "QuadraticSpline.R",
+    "properties" : {
+        "cursorPosition" : "123,16",
+        "scrollLine" : "94"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

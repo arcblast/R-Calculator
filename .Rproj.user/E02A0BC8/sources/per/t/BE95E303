@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575688538848.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2937866674",
+    "id" : "BE95E303",
+    "lastKnownWriteTime" : 1575453694,
+    "last_content_update" : 1575453694,
+    "path" : "~/Skool is kool/CMSC150/CMSC-150-Project-master/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "20,32",
+        "scrollLine" : "25"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

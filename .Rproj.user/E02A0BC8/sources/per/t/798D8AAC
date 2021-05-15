@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575688620583.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1177917742",
+    "id" : "798D8AAC",
+    "lastKnownWriteTime" : 1575453694,
+    "last_content_update" : 1575453694,
+    "path" : "~/Skool is kool/CMSC150/CMSC-150-Project-master/AugCoeffMatrix.R",
+    "project_path" : "AugCoeffMatrix.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
